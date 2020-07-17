@@ -1,0 +1,2 @@
+# korean_chat_sentiment_classification
+KoElectra를 활용하여 한국어_대화_감정분류
